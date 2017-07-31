@@ -9,3 +9,6 @@
 # Priority: ".ply"  >  ".obj"  >  ".stl"  >  ".vtk"
 # Mesh file name must follow the rule: COMPONENT_NAME + "Mesh" + SUFFIX
 
+# All muscle attachment position must be saved in world coordinates;
+# Given a rigid component, the positions of all muscle points attached to it have to be saved in a matrix form; row size must be the number of isolated attached points, column size must be 3; 
+# file name must be "muscleAttachment"; this file must be saved in the directory of the corresponding subject rigid component;
