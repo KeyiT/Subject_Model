@@ -1,0 +1,5 @@
+# time knots
+0.0, 0.1, 0.3, 0.4
+# component, exciter names, activations
+Tongue, STY, 0, 0, 0.1, 0.1
+Face, OOM, 0, 0, 0.35, 0.35

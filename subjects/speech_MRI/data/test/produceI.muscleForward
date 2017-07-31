@@ -1,0 +1,16 @@
+# time knots
+0.0, 0.1, 0.3, 0.4
+# component, exciter names, activations
+Tongue, GGP, 0, 0, 0.5, 0.5
+Tongue, GGM, 0, 0, 0.02, 0.02
+Tongue, GGA, 0, 0, 0.02, 0.02
+Tongue, MH, 0, 0, 0.1, 0.1
+Tongue, SL, 0, 0, 0.05, 0.05
+Tongue, IL, 0, 0, 0.05, 0.05
+Face, RIS, 0, 0, 0.05, 0.05
+Face, ZYG, 0, 0, 0.05, 0.05
+External, AT, 0, 0, 0.01, 0.01
+External, MT, 0, 0, 0.01, 0.01
+External, PT, 0, 0, 0.01, 0.01
+External, SM, 0, 0, 0.01, 0.01
+External, MP, 0, 0, 0.01, 0.01
